@@ -1,3 +1,9 @@
 [submodule "missing-notes-and-solutions"]
 	path = missing-notes-and-solutions
 	url = https://github.com/missing-semester-cn/missing-notes-and-solutions
+[submodule "git"]
+    path = "git"
+	url = git@github.com:lit-notes/git
+[submodule "latex"]
+    path = "latex"
+	url = git@github.com:lit-notes/latex
